@@ -3,7 +3,7 @@
 Currently working on 국비 (using java). Recently, start learning java <img src='https://i.imgur.com/njfpapZ.png' height='18'/> 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=gruvbox  )
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=dark  )
 
 <!--
 **wjs960/wjs960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
