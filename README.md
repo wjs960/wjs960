@@ -1,11 +1,11 @@
 <!--<p align="center"><a href=""><img width="80%" alt="Hello, I'm Seung Jae" src="" /></a></p> -->
 <p align="center" style="font-size: 25 px" > Hello, I'm Seung Jae </p>
-<p align="center">I'm a backEnd developer from Korea </p>
+<p align="center">I'm a Full-stack developer from Korea </p>
 
 *****
 **About me**
 
-- 💼 backEnd Engineer at ?
+- 💼 Full-stack Engineer at ?
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
