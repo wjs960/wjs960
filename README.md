@@ -18,7 +18,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Favorite Repositories
 
 <a href="https://github.com/wjs960/jdbc-crud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjs960&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjs960&repo=github-readme-stats&theme=dark" />
 </a>
 <!--
 **wjs960/wjs960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
