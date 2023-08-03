@@ -13,7 +13,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 - 💬 Ask me about anything 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=dark  )
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=dark  )![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjs960&layout=compact&theme=tokyonight)
+
 #### Favorite Repositories
 
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/wjs960/jdbc-crud)">
