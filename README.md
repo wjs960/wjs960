@@ -3,9 +3,7 @@
 Currently working on 국비 (using java). Recently, start learning java <img src='https://i.imgur.com/njfpapZ.png' height='18'/> 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=radical)
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=graywhite )
 
 <!--
 **wjs960/wjs960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
