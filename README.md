@@ -1,5 +1,5 @@
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Seung Jae" src="" /></a></p>
-
+<!--<p align="center"><a href=""><img width="80%" alt="Hello, I'm Seung Jae" src="" /></a></p> -->
+### Hello, I'm Seung Jae
 <br />
 
 I'm a backEnd developer from Korea 🇮🇳 Jong-ro-himedia
