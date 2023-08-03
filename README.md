@@ -3,7 +3,6 @@
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=#1D919Cheight=150&section=header&text=Hello&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
  ### Hi there 👋
 </div>
-  Currently working on 국비 (using java). Recently, start learning javadd
 
 
 
