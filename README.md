@@ -17,7 +17,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 *****
 #### Favorite Repositories
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/wjs960/jdbc-crud)">
+<a href="https://github.com/wjs960/jdbc-crud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjs960&repo=github-readme-stats&theme=buefy" />
 </a>
 <!--
