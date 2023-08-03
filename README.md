@@ -1,11 +1,10 @@
 ### Hi there 👋
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&ontColor=#1D919C)
-  Currently working on 국비 (using java). Recently, start learning javadd
-  #1A2E61
+ ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=893107&fontColor=#1D919C&fontSize=70&animation=fadeIn&fontAlignY=55)
+ ### Hi there 👋
 </div>
-
+  Currently working on 국비 (using java). Recently, start learning javadd
 
 
 
