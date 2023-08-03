@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center">
   
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=#1D919Cheight=150&section=header&text=Hello&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
