@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a backEnd developer from Korea 🇮🇳 Jong-ro-himedia
 *****
 **About me**
 
