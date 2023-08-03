@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working on 국비 (using java). Recently, start learning java
+Currently working on 국비 (using java). Recently, start learning javadd
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=dark  )
