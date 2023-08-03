@@ -1,9 +1,12 @@
+### Hi there 👋
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&ontColor=#1D919C)
+  Currently working on 국비 (using java). Recently, start learning javadd
+  #1A2E61
 </div>
-### Hi there 👋
-Currently working on 국비 (using java). Recently, start learning javadd
+
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=dark  )
