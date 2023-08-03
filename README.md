@@ -1,15 +1,23 @@
-<div align="center">
-  
- ![header](https://capsule-render.vercel.app/api?type=Waving&color=#1D919Cheight=150&section=header&text=Hello&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
- ### Hi there 👋
-</div>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Seung Jae" src="./assets/gh-readme-header.png" /></a></p>
 
+<br />
+
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+
+**About me**
+
+- 💼 backEnd Engineer at ?
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=dark  )
 
 <!--
 **wjs960/wjs960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
 Here are some ideas to get you started:
 
@@ -22,4 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Pull_Shark
