@@ -14,7 +14,11 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&theme=dark  )
+#### Favorite Repositories
 
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/wjs960/jdbc-crud)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjs960&repo=github-readme-stats&theme=buefy" />
+</a>
 <!--
 **wjs960/wjs960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
