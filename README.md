@@ -1,8 +1,6 @@
-
-
 <div align="center">
+  
   ![header](https://capsule-render.vercel.app/api?type=Waving)
-
 </div>
 ### Hi there 👋
 Currently working on 국비 (using java). Recently, start learning javadd
