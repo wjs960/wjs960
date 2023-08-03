@@ -1,6 +1,6 @@
 <!--<p align="center"><a href=""><img width="80%" alt="Hello, I'm Seung Jae" src="" /></a></p> -->
 <p align="center" style="font-size: 25 px" > Hello, I'm Seung Jae </p>
-<p align="center">I'm a backEnd developer from Korea  Jong-ro-himedia</p>
+<p align="center">I'm a backEnd developer from Korea </p>
 
 *****
 **About me**
