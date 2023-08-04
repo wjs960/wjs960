@@ -9,7 +9,7 @@
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything <a href="https://open.kakao.com/o/sdsiybzf"> <img src="https://img.icons8.com/doodle/48/kakaotalk.png" heigth = 30px width = 30px alt="kakaotalk"/> </a>
+- 💬 Ask me about anything <a href="https://open.kakao.com/o/sdsiybzf" target="_blank"> <img src="https://img.icons8.com/doodle/48/kakaotalk.png" heigth = 30px width = 30px alt="kakaotalk"/> </a>
 *****
 <a href="https://github.com/wjs960"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wjs960&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/wjs960"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjs960&layout=compact&theme=dark&hide_border=true" /></a>
 *****
